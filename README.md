@@ -1,6 +1,6 @@
-Basic Google social login
+Basic Facebook social login
 
 Based on this guide:
-https://developers.google.com/identity/gsi/web/guides/overview?hl=it
+https://developers.facebook.com/docs/facebook-login/web/login-button/
 
 Add you credentials in credentials.json
